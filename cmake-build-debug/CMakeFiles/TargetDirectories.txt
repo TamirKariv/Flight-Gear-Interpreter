@@ -1,0 +1,3 @@
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/cmake-build-debug/CMakeFiles/untitled16.dir

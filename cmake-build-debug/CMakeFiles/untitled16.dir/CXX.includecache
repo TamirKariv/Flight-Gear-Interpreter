@@ -1,0 +1,386 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/BinaryExpression.h
+Expression.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/Expression.h
+
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/BoolExpression.cpp
+BoolExpression.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/BoolExpression.h
+
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/BoolExpression.h
+Expression.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/Expression.h
+string
+-
+
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/Command.h
+vector
+-
+string
+-
+map
+-
+
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/ConditionChecker.cpp
+sstream
+-
+ConditionChecker.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/ConditionChecker.h
+ShuntingYard.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/ShuntingYard.h
+Expression.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/Expression.h
+BoolExpression.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/BoolExpression.h
+StringUtilis.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/StringUtilis.h
+
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/ConditionChecker.h
+string
+-
+map
+-
+
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/ConnectServerCommand.cpp
+sstream
+-
+ConnectServerCommand.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/ConnectServerCommand.h
+Globals.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/Globals.h
+DataReaderConnect.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/DataReaderConnect.h
+ShuntingYard.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/ShuntingYard.h
+
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/ConnectServerCommand.h
+Command.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/Command.h
+
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/DataReaderConnect.cpp
+DataReaderConnect.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/DataReaderConnect.h
+netinet/in.h
+-
+Command.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/Command.h
+unistd.h
+-
+stdio.h
+-
+sys/socket.h
+-
+stdlib.h
+-
+netinet/in.h
+-
+string.h
+-
+stdio.h
+-
+stdlib.h
+-
+netdb.h
+-
+unistd.h
+-
+netinet/in.h
+-
+string.h
+-
+sys/socket.h
+-
+thread
+-
+pthread.h
+-
+sstream
+-
+Globals.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/Globals.h
+
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/DataReaderConnect.h
+
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/DataReaderServer.cpp
+DataReaderServer.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/DataReaderServer.h
+netinet/in.h
+-
+Command.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/Command.h
+unistd.h
+-
+stdio.h
+-
+sys/socket.h
+-
+stdlib.h
+-
+netinet/in.h
+-
+string.h
+-
+stdio.h
+-
+stdlib.h
+-
+netdb.h
+-
+unistd.h
+-
+netinet/in.h
+-
+string.h
+-
+sys/socket.h
+-
+thread
+-
+pthread.h
+-
+iostream
+-
+Globals.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/Globals.h
+
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/DataReaderServer.h
+
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/Expression.h
+
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/Globals.cpp
+map
+-
+vector
+-
+Globals.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/Globals.h
+StringUtilis.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/StringUtilis.h
+
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/Globals.h
+string
+-
+iostream
+-
+
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/IfCommand.cpp
+IfCommand.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/IfCommand.h
+ConditionChecker.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/ConditionChecker.h
+
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/IfCommand.h
+Command.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/Command.h
+vector
+-
+map
+-
+string
+-
+
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/Lexer.cpp
+sstream
+-
+Lexer.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/Lexer.h
+algorithm
+-
+StringUtilis.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/StringUtilis.h
+
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/Lexer.h
+string
+-
+vector
+-
+fstream
+-
+
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/Number.h
+Expression.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/Expression.h
+
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/OpenDataServerCommand.cpp
+OpenDataServerCommand.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/OpenDataServerCommand.h
+ShuntingYard.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/ShuntingYard.h
+
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/OpenDataServerCommand.h
+Command.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/Command.h
+sstream
+-
+OpenDataServerCommand.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/OpenDataServerCommand.h
+Globals.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/Globals.h
+DataReaderServer.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/DataReaderServer.h
+
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/Parser.cpp
+Parser.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/Parser.h
+Expression.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/Expression.h
+OpenDataServerCommand.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/OpenDataServerCommand.h
+ConnectServerCommand.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/ConnectServerCommand.h
+PrintCommand.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/PrintCommand.h
+SleepCommand.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/SleepCommand.h
+VarCommand.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/VarCommand.h
+algorithm
+-
+ShuntingYard.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/ShuntingYard.h
+ctype.h
+-
+StringUtilis.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/StringUtilis.h
+
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/Parser.h
+vector
+-
+string
+-
+map
+-
+Command.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/Command.h
+algorithm
+-
+WhileCommand.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/WhileCommand.h
+IfCommand.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/IfCommand.h
+VarCommand.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/VarCommand.h
+ShuntingYard.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/ShuntingYard.h
+StringUtilis.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/StringUtilis.h
+Globals.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/Globals.h
+
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/Plus.h
+BinaryExpression.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/BinaryExpression.h
+
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/PrintCommand.cpp
+iostream
+-
+PrintCommand.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/PrintCommand.h
+
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/PrintCommand.h
+Command.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/Command.h
+map
+-
+
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/ShuntingYard.cpp
+stack
+-
+string
+-
+cstring
+-
+Expression.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/Expression.h
+Number.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/Number.h
+ShuntingYard.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/ShuntingYard.h
+
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/ShuntingYard.h
+Expression.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/Expression.h
+string
+-
+vector
+-
+
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/SleepCommand.cpp
+unistd.h
+-
+SleepCommand.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/SleepCommand.h
+
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/SleepCommand.h
+Command.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/Command.h
+
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/StringUtilis.cpp
+sstream
+-
+StringUtilis.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/StringUtilis.h
+
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/StringUtilis.h
+vector
+-
+string
+-
+
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/VarCommand.cpp
+VarCommand.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/VarCommand.h
+ConditionChecker.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/ConditionChecker.h
+ShuntingYard.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/ShuntingYard.h
+StringUtilis.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/StringUtilis.h
+Globals.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/Globals.h
+
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/VarCommand.h
+Command.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/Command.h
+string
+-
+vector
+-
+
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/WhileCommand.cpp
+WhileCommand.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/WhileCommand.h
+ConditionChecker.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/ConditionChecker.h
+
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/WhileCommand.h
+Command.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/Command.h
+vector
+-
+string
+-
+
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/main.cpp
+iostream
+-
+Expression.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/Expression.h
+BinaryExpression.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/BinaryExpression.h
+Number.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/Number.h
+Plus.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/Plus.h
+Lexer.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/Lexer.h
+Parser.h
+/home/tamir/Desktop/git/advanced prog 1/proj1/src/Parser.h
+
